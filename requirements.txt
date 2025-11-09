@@ -1,0 +1,6 @@
+apache-airflow
+pandas
+rapidfuzz
+sqlalchemy
+psycopg2-binary
+python-dotenv
