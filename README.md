@@ -190,28 +190,6 @@ DataWarehouse/
 - **Memory Management** - Efficient pandas operations
 - **Connection Pooling** - SQLAlchemy connection management
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-feature`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature/new-feature`)
-5. Create a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👥 Authors
-
-- **Omar Bouattour** - Initial work - [Mazelt-Ne9es](https://github.com/Mazelt-Ne9es)
-
-## 🙏 Acknowledgments
-
-- Apache Airflow community for workflow orchestration tools
-- pandas development team for data manipulation capabilities
-- PostgreSQL team for robust database management
-
 ## 📧 Support
 
 For questions or issues, please open an issue on GitHub or contact the maintainer.
